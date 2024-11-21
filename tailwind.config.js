@@ -10,7 +10,7 @@ export default {
         custom: ['"Franklin Gothic Medium"', '"Arial Narrow"', 'Arial', 'sans-serif'],
       },
       backgroundImage: {
-        'custom-image': "url('./src/assets/bg.jpg')",
+        'custom-image': "url('/bg.jpg')",
       },
     },
   },
